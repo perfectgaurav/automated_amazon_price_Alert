@@ -2,9 +2,9 @@ import requests
 import lxml
 import smtplib
 from bs4 import BeautifulSoup
-MY_EMAIL = "gauravkaushik035@gmail.com"
-MY_PASSWORD = "monstercr7"
-TO_MAIL="gauravkaushik1999@gmail.com"
+MY_EMAIL = "enter ur mail"
+MY_PASSWORD = "ur password"
+TO_MAIL="senders mail"
 
 url = "https://www.amazon.com/Duo-Evo-Plus-esterilizadora-vaporizador/dp/B07W55DDFB/ref=sr_1_4?qid=1597660904"
 header = {
